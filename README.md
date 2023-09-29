@@ -1,4 +1,4 @@
-# unitTestsUPB - Practicas
+# Practicas UnitTest - Ambar Rojas
 
 ### Ejercicio 2 - Invertir número
 
